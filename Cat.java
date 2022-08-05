@@ -2,7 +2,7 @@ package com.animals.demo;
 
 public class Cat extends Animal implements Pet {
 	
-	private String name;
+	public String name;
 	
 	public Cat(String name) {
 		
